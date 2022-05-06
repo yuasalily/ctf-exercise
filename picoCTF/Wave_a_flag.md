@@ -21,3 +21,5 @@ Can you invoke help flags for a tool or binary? This program has extraordinarily
 ファイル形式を判定するものだと[こんなサイト](http://ixtlilton.net/cgi/FileMimeChk.cgi)もある。
 
 バイナリファイルはLinuxのobjdumpで一応アセンブリに変換できる。今回の場合だと`objdump warm -S`。
+
+`command not found`といわれる場合は`apt install binutils`で入れられる。
