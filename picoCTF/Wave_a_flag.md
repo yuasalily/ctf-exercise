@@ -16,10 +16,12 @@ Can you invoke help flags for a tool or binary? This program has extraordinarily
 
 `warm: application/x-sharedlib; charset=binary`
 
-と出てくる。
+と出てくる。これで実行可能なファイルだとわかる。
 
 ファイル形式を判定するものだと[こんなサイト](http://ixtlilton.net/cgi/FileMimeChk.cgi)もある。
 
 バイナリファイルはLinuxのobjdumpで一応アセンブリに変換できる。今回の場合だと`objdump warm -S`。
 
 `command not found`といわれる場合は`apt install binutils`で入れられる。
+
+[hex editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)とかでいろいろ見てみたい
