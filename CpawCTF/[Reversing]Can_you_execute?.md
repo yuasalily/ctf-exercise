@@ -17,7 +17,7 @@
 
 と出てくる。これで実行可能なファイルだとわかる。ファイル形式を判定するものだと[こんなサイト](http://ixtlilton.net/cgi/FileMimeChk.cgi)もある。
 
-`file warm`
+`file `
 
 とすれば
 
