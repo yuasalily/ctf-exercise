@@ -29,7 +29,8 @@
 
 `elf`ファイルは`readelf`で情報を表示できる。
 
-- ELFとは
-  - [ITmedia](https://www.itmedia.co.jp/help/tips/linux/l0448.html)
-  - [Wikipedia](https://ja.wikipedia.org/wiki/Executable_and_Linkable_Format)
-  - [もう少し詳しく](https://sugawarayusuke.hatenablog.com/entry/2017/04/09/213133)
+- keyword
+  - ELF
+    - [ITmedia](https://www.itmedia.co.jp/help/tips/linux/l0448.html)
+    - [Wikipedia](https://ja.wikipedia.org/wiki/Executable_and_Linkable_Format)
+    - [もう少し詳しく](https://sugawarayusuke.hatenablog.com/entry/2017/04/09/213133)
