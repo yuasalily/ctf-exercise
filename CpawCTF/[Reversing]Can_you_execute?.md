@@ -15,9 +15,7 @@
 
 `exec_me: application/x-sharedlib; charset=binary`
 
-と出てくる。これで実行可能なファイルだとわかる。
-
-ファイル形式を判定するものだと[こんなサイト](http://ixtlilton.net/cgi/FileMimeChk.cgi)もある。
+と出てくる。これで実行可能なファイルだとわかる。ファイル形式を判定するものだと[こんなサイト](http://ixtlilton.net/cgi/FileMimeChk.cgi)もある。
 
 `file warm`
 
@@ -25,7 +23,7 @@
 
 `exec_me: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, BuildID[sha1]=663a3e0e5a079fddd0de92474688cd6812d3b550, not stripped`
 
-と表示され'elf'ファイルだとわかる。
+と表示され`elf`ファイルだとわかる。
 
 `elf`ファイルは`readelf`で情報を表示できる。
 
