@@ -25,3 +25,6 @@ Can you invoke help flags for a tool or binary? This program has extraordinarily
 `command not found`といわれる場合は`apt install binutils`で入れられる。
 
 [hex editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)とかでいろいろ見てみたい
+
+- keyword
+  - [file](https://atmarkit.itmedia.co.jp/ait/articles/1605/10/news018.html)(Linuxコマンド)
