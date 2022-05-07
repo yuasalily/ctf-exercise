@@ -5,4 +5,4 @@
 Enjoy CpawCTF!!!!
 
 ### Writeup
-答えが書いてあるのでそれを入力。
+答えが書いてあるのでそれを入力。入力するのは`cpaw{this_is_Cpaw_CTF}`。
