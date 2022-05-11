@@ -9,6 +9,6 @@ pysharkでもok
 pysharkでのコードを追加予定
 
 - keyword
-  - pcap
-  - wireshark
-  - pyshark
+  - [pcap](https://ja.wikipedia.org/wiki/Pcap)
+  - [wireshark](https://ja.wikipedia.org/wiki/Wireshark)
+  - [pyshark](https://github.com/KimiNewt/pyshark)
